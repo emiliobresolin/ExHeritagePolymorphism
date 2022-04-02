@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\bin\Debug\net5.0\ExHeritagePolymorphism.exe
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\bin\Debug\net5.0\ExHeritagePolymorphism.deps.json
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\bin\Debug\net5.0\ExHeritagePolymorphism.runtimeconfig.json
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\bin\Debug\net5.0\ExHeritagePolymorphism.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\bin\Debug\net5.0\ExHeritagePolymorphism.dll
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\bin\Debug\net5.0\ref\ExHeritagePolymorphism.dll
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\bin\Debug\net5.0\ExHeritagePolymorphism.pdb
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\obj\Debug\net5.0\ExHeritagePolymorphism.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\obj\Debug\net5.0\ExHeritagePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\obj\Debug\net5.0\ExHeritagePolymorphism.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\obj\Debug\net5.0\ExHeritagePolymorphism.AssemblyInfo.cs
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\obj\Debug\net5.0\ExHeritagePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\obj\Debug\net5.0\ExHeritagePolymorphism.dll
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\obj\Debug\net5.0\ref\ExHeritagePolymorphism.dll
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\obj\Debug\net5.0\ExHeritagePolymorphism.pdb
+C:\Users\user\source\repos\ExHeritagePolymorphism\ExHeritagePolymorphism\obj\Debug\net5.0\ExHeritagePolymorphism.genruntimeconfig.cache
